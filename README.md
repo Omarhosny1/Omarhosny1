@@ -9,7 +9,7 @@
 
 I’m a passionate Front-End Web Developer focused on building responsive, modern, and user-friendly websites using technologies like **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **React.js**.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
 
 ---
 
