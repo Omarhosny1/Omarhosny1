@@ -37,15 +37,4 @@ I’m a passionate Front-End Web Developer focused on building responsive, moder
 
 ---
 
-### 📊 GitHub Stats
-
-<a href='https://github.com/Omarhosny1/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-
----
 
