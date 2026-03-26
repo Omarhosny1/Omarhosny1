@@ -27,7 +27,7 @@ I’m a passionate Front-End Web Developer focused on building responsive, moder
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="42px"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="42px"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="42px"/> </a>
-<a href="https://tailwindcss.com/brand" target="_blank"> <img align="left" src="https://i.allsvgicons.com/r/skill-icons:tailwindcss-light.json" alt="Tailwind" height="42px"/> </a> 
+<a href="https://tailwindcss.com/brand" target="_blank"> <img align="left" src="https://allsvgicons.com/pack/skill-icons/#tailwindcss-light" alt="Tailwind" height="42px"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="42px"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="42px"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="42px"/> </a> 
